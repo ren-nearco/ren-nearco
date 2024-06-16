@@ -5,11 +5,27 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ren-nearco&show_icons=true&locale=en&layout=compact)
 
-## Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python," /> <br /><br />
+## Skills
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp," /> <br /><br />
 
 <!--
+### Frontend Development
+### Backend Development
+### Mobile App Development
+### AI/ML
+### Database
+### Data Visualization
+### Devops
+### Backend as a Service(BaaS)
+### Framework
+### Testing
+### Software
+### Static Site Generators
+### Game Engines
+### Automation
+### Other
+
 **ren-nearco/ren-nearco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
